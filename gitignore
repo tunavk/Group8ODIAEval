@@ -1,0 +1,10 @@
+# data and model artifacts: too large for GitHub
+*.csv
+*.jsonl
+runs/
+*.safetensors
+*.bin
+*.pt
+checkpoints/
+__pycache__/
+.ipynb_checkpoints/
