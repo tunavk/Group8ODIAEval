@@ -1,0 +1,9 @@
+transformers>=4.41
+torch
+datasets
+accelerate
+evaluate
+scikit-learn
+pandas
+numpy
+sentencepiece
